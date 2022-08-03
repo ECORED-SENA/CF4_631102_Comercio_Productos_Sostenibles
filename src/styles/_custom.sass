@@ -1,19 +1,295 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    width: 50px
+    animation: scale2 1s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 20%
+    left: 10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    width: 80px
+    animation: scale1 1.4s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 25%
+    right: 25%
 
-
-@keyframes float1
+@keyframes scale1
   0%
-    transform: translateY(20px)
+    transform: scale(1) translate(-20%,20%)    
 
   100%
-    transform: translateY(0px)
+    transform: scale(1.4) translate(0,0)    
+
+@keyframes scale2
+  0%
+    transform: scale(1) translate(20%,-20%)  
+
+  100%
+    transform: scale(1.4) translate(0,0) 
+
+///// utilidades
+.img65
+  width: 65px
+.img75
+  width: 75px
+.img90
+  width: 90px
+.img125
+  width: 125px
+.img190
+  width: 190px
+.strong
+  font-weight: 600
+.hg-100
+  height: 100%
+
+$size: 25px
+
+.half_circle
+  &::before    
+    content: ""
+    position: absolute
+    top: 10%
+    left: 0
+    height: $size * 2
+    width: $size
+    background-color: white
+    border-bottom-right-radius: $size * 2
+    border-top-right-radius: $size * 2
+
+.topSquare
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: -15px
+    left: -15px
+    width: 25%
+    height: 50%
+    background-color: #FFFAE7
+
+////// texto
+.clr--magenta
+  color: #EA3584
+
+.dot
+  top: 4px
+  font-size: 8pt
+
+//// Bloque de texto G
+.bloq--pink
+  background-color: #F499C1 
+.bloq--purple
+  background-color: #B392E5
+
+//// colores
+.bg--yellow
+  background-color: #FFEEB0
+.bg--paleYellow
+  background-color: #FFF6D7
+.bg--lightPurple
+  background-color: #E4D9F6  
+.bg--lightPink
+  background-color: #FCE7F0  
+.bg--purple
+  background-color: #B392E5
+.bg--purple_02
+  background-color: #CAB3ED
+
+//// Tarjetas 
+
+.hg_custm
+  height: calc( 100% - 50px )
+  @media (max-width: 1000px)
+    height: auto !important
+
+.hg_100
+  height: 100% !important
+.hg_35
+  margin-top: 15px
+  height: 35px !important
+
+.brad_01
+  border-radius: 15px
+.brad_top
+  border-top-right-radius: 15px
+  border-top-left-radius: 15px
+.brad_bottom
+  border-bottom-right-radius: 15px
+  border-bottom-left-radius: 15px
+
+.crd
+  position: relative
+  & > *
+    position: relative
+  &.cstm_h3
+    position: relative
+    display: inline-block
+    padding: 0.75rem 3rem 0.75rem 1rem
+    background-color: #F499C1
+    h3
+      margin: 0 !important
+    &::before
+      content: ''
+      position: absolute
+      top: 50%
+      right: -65px
+      width: 65px
+      height: 70px
+      transform: translate(-50%, -50%)
+      background-image: url("../assets/curso/temas/t4/icon_h3.svg")     
+      background-repeat: no-repeat   
+
+  &.crd--topAvatar
+    position: relative
+    &::before
+      content: ''
+      position: absolute
+      bottom: 0
+      left: 0
+      width: 100%
+      height: calc( 100% - 80px )
+      border-radius: 15px    
+
+  &.crd--topAvatar.purple    
+    &::before
+      background-color: #E4D9F6   
+
+  &.crd--topAvatar.yellow    
+    &::before
+      background-color:#FFF2C4   
+
+  &.crd_Hor-avatar
+    position: relative
+    &::before
+      content: ""
+      position: absolute
+      right: 0
+      width: calc( 100% - 60px )
+      height: 100%
+      background-color: #E1D3F5
+      border-radius: 15px
+
+
+  &.crd--purple
+    padding: 2rem
+    background-color: #EEE7F9
+    border-radius: 15px
+  &.crd--paleYellow
+    padding: 2rem
+    background-color: #FAF1D2
+    border-radius: 15px
+  &.crd--yellow
+    padding: 2rem
+    background-color: #FFEFB1
+    border-radius: 15px
+  &.crd--gray
+    padding: 0.5rem
+    background-color: #E8E8E8    
+
+  &.crd--img
+    background-color: #FFF6D7
+    .crd--img__title
+      background-color: #FFEEB0
+    &:hover
+      background-color: #EBE3F9
+      .crd--img__title
+        background-color: #D1B7FF
+      
+
+//// Bloque de texto B
+.bloque-texto-g.custom_01
+  justify-content: start
+  background-color: #F499C1
+  .bloque-texto-g__img
+    left: 100%
+    transform: translateX(-100%)
+
+.bloque-texto-g.custom_01.pink  
+  background-color: #F499C1
+.bloque-texto-g.custom_01.yellow
+  background-color: #FFF6D7
+.bloque-texto-g.custom_01.purple
+  background-color: #B392E5
+  
+
+////
+.crd.crd--purple
+  .horizontal-scroll
+    align-items: start !important  
+
+//// componente tarjeta + imagen
+.bg_img
+  width: 100% 
+
+.img_01
+  height: 380px
+  background-image: url("../assets/curso/temas/t4/t4_03.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center center
+  @media (max-width: 1400px)
+    height: 450px
+  @media (max-width: 1400px)
+    height: 450px
+  @media (max-width: 1000px)
+    height: 380px
+
+.img_02
+  height: 370px
+  background-image: url("../assets/curso/temas/t4/t4_06.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+.img_03
+  height: 370px
+  background-image: url("../assets/curso/temas/t1/t1_52.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+
+///// Tabas A
+.tabs-a__tab.tabs-a__tab__selected
+  color: white !important
+.tabs-a__tab
+  background-color: #F6F6F6
+  color: $color-sistema-texto !important
+
+///// Acordion A
+.acordion__activo
+  background-color: #FAF1D2
+
+///// Slyder A tipo B
+.slyder-a__bullets__item
+  background-color: #BFA3E9
+
+.slyder-a__bullets__item--active
+  background-color: #6826CC
+  border: none
+
+///// Linea de tiempo D
+.tl--purple
+  .linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #D9C9F2        
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #D9C9F2
+
+  .linea-tiempo-d__item__dots:after
+      border-left: 5px dotted #B291E5 
+
+//// infografias interactivas
+
+.img-infografica__item, .img-infografica-b__item 
+  width: 4%
+
+.img-infografica__item__dot:before, .img-infografica__item__dot:after, .img-infografica-b__item__dot:before, .img-infografica-b__item__dot:after
+  opacity: 1
+
+.img-infografica__item__numero
+  color: white !important
+
+//// tablas
+.tabla-a.custom01
+  thead
+    background-color: #E5D5FF !important
+    border-top: none
