@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 5
-      h1 Titulo de primer nivel
+      h1 Normatividad ambiental de productos y servicios
 
     figure(data-aos="zoom-in").mb-5
       img(src="@/assets/curso/temas/t5/t5_01.jpg", alt="alt")
@@ -28,11 +28,7 @@
 
       .row(titulo="Ley 9 de 1979")      
         .col-12
-          p.mb-0 Ley 9 de 1979, Código Sanitario Nacional, establece los procedimientos y medidas para legislar, regular y controlar las descargas de los residuos y materiales. Indica además los parámetros para controlar las actividades que afecten el medio ambiente. 
-
-      .row(titulo="Ley 99 de 1993")      
-        .col-12
-          p.mb-0 Ley 99 de 1993, por la cual se crea el Sistema Nacional Ambiental, establece el marco general de gestión ambiental y está orientada a promover el desarrollo sostenible, de manera general. La ley 99 estableció el Ministerio del Medio Ambiente, hoy Ministerio de Ambiente y Desarrollo Sostenible (MADS), como organismo rector de la gestión sostenible del medioambiente y de los recursos naturales y del ordenamiento ambiental del territorio. 
+          p.mb-0 Ley 9 de 1979, Código Sanitario Nacional, establece los procedimientos y medidas para legislar, regular y controlar las descargas de los residuos y materiales. Indica además los parámetros para controlar las actividades que afecten el medio ambiente.      
 
       .row(titulo="Ley 99 de 1993")      
         .col-12
@@ -183,7 +179,7 @@
               | #[strong Resolución 75 de 2011], por la cual se adopta el formato de reporte sobre el estado de cumplimiento de la norma de vertimiento puntual al alcantarillado público. 
             li.mb-3
               i.fa-li.fas.fa-circle.clr--magenta.dot
-              | #[strong Resolución 1514 de 2012], por la cual adoptan los Términos de referencia para la elaboración del Plan de Gestión del Riesgo para el manejo de vertimientos. 
+              | #[strong Resolución 1514 de 2012], por la cual adoptan los términos de referencia para la elaboración del Plan de Gestión del Riesgo para el manejo de vertimientos. 
 
     separador
 

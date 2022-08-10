@@ -28,7 +28,7 @@
           img(src="@/assets/curso/temas/t6/t6_02.svg", alt="alt")
 
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      h5 Figura 5.
+      h5 Figura 6.
       span Características de la economía circular
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
@@ -86,7 +86,7 @@
             figure
               img(src='@/assets/curso/temas/t6/t6_08.png', alt='')
           .col-12
-            h4 De la cuna a la cuna (Cradle to cradle)
+            h4 De la cuna a la cuna (<em>Cradle to cradle</em>)
             p La principal aportación, es la clasificación que realiza de los recursos presentes en la economía. A los recursos, como materias primas o productos manufacturados, los denomina nutrietites y los clasifica en dos tipos:
             p.mb-2 a. Recursos biológicos.
             p.mb-0 b. Recursos técnicos.
@@ -114,7 +114,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/AyUEJ5YLB1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
     .row.justify-content-center.align-items-center
       .col-lg-9(data-aos="fade")

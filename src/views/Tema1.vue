@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 1
-      h1 Impacto visual
+      h1 Impacto ambiental
 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-8(data-aos="fade")
         p El rápido crecimiento de las empresas y el mercado cada día más globalizado hacen del mundo un lugar exigente y altamente competitivo para las compañías, la primera que llegue a un sector de mercado, la que fabrique el producto más innovador, la que pueda llegar a zonas recónditas, siempre las empresas buscando un factor diferencial en cuanto a producto o servicio ofrecido; pero, ¿qué pasa en medio del proceso?
 
-        p Empresas del sector de la industria de la moda, con tendencias de fast fashion, se han vuelto grandes contaminadores del medio ambiente, dado que para el manejo de los desechos y residuos y muchas veces por la velocidad en la que el mercado les demanda, se olvidan de las políticas verdes que deben seguir.
+        p Empresas del sector de la industria de la moda, con tendencias de <em>fast fashion</em>, se han vuelto grandes contaminadores del medio ambiente, dado que para el manejo de los desechos y residuos y muchas veces por la velocidad en la que el mercado les demanda, se olvidan de las políticas verdes que deben seguir.
 
         p.mb-0 Siempre que se hable de producción, de crear un producto para satisfacer una necesidad o de ofrecer un servicio, intrínsecamente se puede hablar del impacto ambiental que genera directa o indirectamente, ya sea por extracción de materias primas, procesamiento de estas o al brindar un servicio de puerta a puerta, donde el medio de transporte genera un tipo de impacto.
       .col-lg-4.col-8(data-aos="zoom-in")
@@ -57,7 +57,7 @@
 
       .row.justify-content-center(titulo="Suelo")
         .col-lg-9.mb-4.mb-lg-0
-          p El principal impacto que se genera sobre el aire es la contaminación, causada por la presencia en la atmósfera de sustancias o residuos tóxicos que generan graves consecuencias para el medio ambiente y la salud humana, generando enfermedades respiratorias y dermatológicas.     
+          p Consiste en la variación de la superficie terrestre debido a sustancias químicas o a prácticas productivas que afectan los ecosistemas y también la salud humana. Actividades que pueden resultar perjudiciales para el suelo son la ganadería extensiva o la contaminación por agua de riego. La contaminación de suelos causa la pérdida de la fertilidad de la tierra y afecta el hábitat de diversas especies.     
         .col-lg-3.col-12
           figure
             img(src='@/assets/curso/temas/t1/t1_06.jpg', alt='')
@@ -79,7 +79,7 @@
         .row.justify-content-center          
           .col-lg-4.mb-4.mb-lg-0
             h4 Impactos de sobreexplotación
-            p Los tipos de impacto se puede ordenar de acuerdo con el tipo de recursos, ya sean naturales renovables o no renovables. 
+            p Los tipos de impacto se pueden ordenar de acuerdo con el tipo de recursos, ya sean naturales renovables o no renovables. 
             p.mb-0 La sobreexplotación de recursos naturales renovables hace referencia a cantidades extraídas del recurso mayores a su tasa de renovación, por ejemplo: la  extracción de recursos acuíferos subterráneos que superan la tasa de recarga anual, extracción de aguas superficiales sin tener en cuenta los caudales ecológicos, extracción de madera de los bosques sin dar tiempo a procesos de reforestación, ganadería intensiva que emplea técnicas inadecuadas y actividades de pesca y caza abusivas que acaban incluso con especies protegidas.
           .col-lg-8
             figure
@@ -158,11 +158,19 @@
 
         .row.justify-content-center          
           .col-lg-4.mb-4.mb-lg-0
+            h4 Impactos según la persistencia del efecto             
+            p.mb-0 Hace referencia al tiempo de duración del efecto sobre el medio ambiente, estos impactos pueden ser temporales o permanentes. Los impactos temporales se clasifican según rangos de tiempo establecidos de la siguiente forma: se considera un efecto fugaz cuando dura menos de un año, se considera temporal si dura entre 1 y 3 años, y se considera pertinaz si dura entre 4 y 10 años. Por su parte, los efectos permanentes son los que tienen una duración mayor a 10 años.
+          .col-lg-8
+            figure
+              img(src='@/assets/curso/temas/t1/t1_16A.png', alt='')
+
+        .row.justify-content-center          
+          .col-lg-4.mb-4.mb-lg-0
             h4 Impactos según el tipo de efecto             
             p.mb-0 Los efectos pueden ser directos e indirectos, son directos cuando son consecuencia directa de la acción realizada sobre el entorno estos son inmediatos y de fácil percepción; y son indirectos cuando no son causa de una acción directa y no son inmediatos ni percibidos a simple vista.
           .col-lg-8
             figure
-              img(src='@/assets/curso/temas/t1/t1_17.png', alt='')
+              img(src='@/assets/curso/temas/t1/t1_17.png', alt='')        
 
         .row.justify-content-center          
           .col-lg-4.mb-4.mb-lg-0
@@ -174,7 +182,7 @@
 
     separador
 
-    #t1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido
       h2(data-aos="fade") 1.1 Consumo
 
     p(data-aos="fade").mb-5 El consumo puede definirse como el acto de comprar, obtener o apropiarse de las cosas que han sido destinadas para satisfacer algún tipo de necesidad o deseo, ya sea personal o colectivo. Este inicia desde que se siente la necesidad y finaliza al dar uso a lo adquirido; consumimos bienes o servicios que pueden ser utilizados como alimento, objeto de entretenimiento, disfrute, vestido, decoración, entre muchos otros. Generalmente el consumo termina en la destrucción o finalización de las cosas, generando desechos y residuos.
@@ -433,35 +441,35 @@
             figure
               img(src='@/assets/curso/temas/t1/t1_42.svg', alt='')          
 
-          .tarjeta.color-primario.p-3(x="40%" y="15%" numero="1")
+          .tarjeta.color-primario.p-3(x="40%" y="15%" numero="8")
             .h5.mb-2 Reciclaje
             p.mb-0 Reciclaje de los residuos para minimizar el impacto generado por las grandes cantidades de basura y hacer parte de campañas medioambientales.
 
-          .tarjeta.color-primario.p-3(x="58%" y="15%" numero="2")
+          .tarjeta.color-primario.p-3(x="58%" y="15%" numero="1")
             .h5.mb-2 Fuentes hídricas
             p.mb-0 Cuidar el agua y las fuentes hídricas.
 
-          .tarjeta.color-primario.p-3(x="80%" y="28%" numero="3")
+          .tarjeta.color-primario.p-3(x="80%" y="28%" numero="2")
             .h5.mb-2 Alimentos naturales
             p.mb-0 Incrementar el consumo de alimentos naturales y frescos en reemplazo de los alimentos altamente procesados.
 
-          .tarjeta.color-primario.p-3(x="80%" y="70%" numero="4")
+          .tarjeta.color-primario.p-3(x="80%" y="70%" numero="3")
             .h5.mb-2 Recursos naturales
             p.mb-0 Hacer uso adecuado de los recursos y ser más consciente con los recursos naturales.
 
-          .tarjeta.color-primario.p-3(x="62%" y="82%" numero="5")
+          .tarjeta.color-primario.p-3(x="62%" y="82%" numero="4")
             .h5.mb-2 Transportes
             p.mb-0 Fomentar el uso de medios de transporte no contaminantes.
 
-          .tarjeta.color-primario.p-3(x="37%" y="82%" numero="6")
+          .tarjeta.color-primario.p-3(x="37%" y="82%" numero="5")
             .h5.mb-2 Un solo uso
             p.mb-0 Buscar alternativas que puedan reemplazar los productos de un solo uso.
 
-          .tarjeta.color-primario.p-3(x="18%" y="70%" numero="7")
+          .tarjeta.color-primario.p-3(x="18%" y="70%" numero="6")
             .h5.mb-2 Turismo
-            p.mb-0 Reducir el impacto como turistas          
+            p.mb-0 Reducir el impacto como turistas.         
 
-          .tarjeta.color-primario.p-3(x="18%" y="28%" numero="8")
+          .tarjeta.color-primario.p-3(x="18%" y="28%" numero="7")
             .h5.mb-2 Consumo consciente
             p.mb-0 Consumir lo necesario y realizar un análisis consciente antes de realizar cualquier tipo de compra. 
 

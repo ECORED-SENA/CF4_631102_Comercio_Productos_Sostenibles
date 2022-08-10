@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Impacto ambiental y economía circular',
     descripcionCurso:
-      'Hoy en día ser productivos, estar a la vanguardia y sostenerse en el mercado es tarea de todas las empresas, la ++sostenibilidad es un tema que no puede ser omitido; proteger el medio ambiente, disminuir las huellas, además de aprovechar al máximo la materia prima, para utilizarla y reutilizarla, harán que las empresas sean realmente eficaces y efectivas.',
+      'Hoy en día ser productivos, estar a la vanguardia y sostenerse en el mercado es tarea de todas las empresas, la sostenibilidad es un tema que no puede ser omitido; proteger el medio ambiente, disminuir las huellas, además de aprovechar al máximo la materia prima, para utilizarla y reutilizarla, harán que las empresas sean realmente eficaces y efectivas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -72,10 +72,10 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '2.2',
             titulo:
               'Elementos clave de sostenibilidad en los procesos de la organización ',
-            hash: 't_2_1',
+            hash: 't_2_2',
           },
         ],
       },
@@ -83,7 +83,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Ciclo de vida del producto',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -175,7 +175,7 @@ export default {
       referencia:
         'BSG Institute. (2020). Tipos de impacto ambiental. [Video]. YouTube. ',
       tipo: 'Video',
-      descarga: 'https://youtu.be/sNdxt3-Ipgc',
+      link: 'https://www.youtube.com/watch?v=sNdxt3-Ipgc',
     },
     {
       tema: 'Riesgos y medidas de mitigación',
@@ -310,9 +310,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
@@ -324,7 +324,7 @@ export default {
       },
       {
         nombre: 'Carlos Andrés Otero Cano',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Comercio y Servicios - Regional Cauca',
       },
       {
@@ -352,7 +352,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -364,13 +364,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

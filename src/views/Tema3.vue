@@ -72,7 +72,7 @@
     p(data-aos="fade").mb-5 La siguiente figura presenta un resumen gráfico de los diferentes alcances en el análisis del ciclo de vida del producto.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade")
-      h5 Figura 3.
+      h5 Figura 4.
       span Análisis del ciclo de vida del producto
 
     figure(data-aos="zoom-in")
