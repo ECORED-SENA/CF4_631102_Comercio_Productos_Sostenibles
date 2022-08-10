@@ -168,7 +168,7 @@ export default {
       referencia:
         'Garmendia, S., A., Crespo S., C., Garmendia, S., L., y Salvador, A., A. (2005). Evaluación de impacto ambiental (cap. 3). Pearson Educación.',
       tipo: 'libro',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4384&pg=95',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4384&pg=95&ed=',
     },
     {
       tema: 'Impacto ambiental',
