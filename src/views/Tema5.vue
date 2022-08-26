@@ -40,7 +40,7 @@
 
       .row(titulo="Resolución 689 de 2016")      
         .col-12
-          p.mb-0 Resolución 689 de 2016, expide el reglamento que define los límites máximos de fósforo y biodegrabilidad de los tensoactivos presentes en detergentes y jabones.
+          p.mb-0 Resolución 689 de 2016, expide el reglamento que define los límites máximos de fósforo y biodegradabilidad de los tensoactivos presentes en detergentes y jabones.
 
       .row(titulo="Ley 1844 de 2017")      
         .col-12
@@ -145,7 +145,7 @@
               | #[strong Decisión 562 de 2003], tiene por objetivo establecer requisitos y procedimientos para la elaboración, adopción y aplicación de Reglamentos Técnicos al interior de los Países Miembros y a nivel comunitario, a fin de evitar que estos se constituyan en obstáculos técnicos innecesarios al comercio intrasubregional. 
             li.mb-3
               i.fa-li.fas.fa-circle.clr--magenta.dot
-              | #[strong DLey 846 de 2003], por medio de la cual se aprueba el Protocolo Adicional al Acuerdo de Cartagena "Compromiso de la Comunidad Andina por la Democracia", hecho en Oporto, Portugal, el diecisiete (17) de octubre de mil novecientos noventa y ocho (1998).
+              | #[strong Ley 846 de 2003], por medio de la cual se aprueba el Protocolo Adicional al Acuerdo de Cartagena "Compromiso de la Comunidad Andina por la Democracia", hecho en Oporto, Portugal, el diecisiete (17) de octubre de mil novecientos noventa y ocho (1998).
             li.mb-3
               i.fa-li.fas.fa-circle.clr--magenta.dot
               | #[strong Decreto 2372 de 2010], por el cual se reglamenta el Decreto - Ley 2811 de 1974, la Ley 99 de 1993, la Ley 165 de 1994 y el Decreto - Ley 216 de 2003, en relación con el Sistema Nacional de Áreas Protegidas, las categorías de manejo que lo conforman y se dictan otras disposiciones.
@@ -221,7 +221,7 @@
     AcordionA(data-aos="fade").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Decreto 1541 de 1978")      
         .col-12
-          p En materia ambiental ordena que las instituciones del gobierno protejan el medio ambiente y que la ley permita a los ciudadanos participar en las decisiones que afectan su derecho a un medio ambiente adecuado.<br><br>Asimismo, la promoción de la protección ambiental y el desarrollo sostenible encuentran su base en la Constitución Política de 1991, que a través de su artículo 79 tutela el ambiente sano, garantizando la participación de la comunidad en las decisiones que puedan afectarlo. Mientras tanto, el artículo 95 determina que toda persona está obligada a proteger los recursos culturales y naturales del país y velar por la conservación de un ambiente sano. Establece también que el Estado debe planificar el manejo y aprovechamiento sostenible de los recursos naturales para garantizar el desarrollo sostenible por medio del artículo 80, y le da prioridad al espacio público mediante el artículo 82.         
+          p Artículo 146, establece que la explotación que incluye perforaciones de prueba en búsqueda de agua subterránea, con miras a su posterior aprovechamiento, requiere de un permiso de concesión de agua subterránea.  La Sección 3 del decreto establece los procedimientos para otorgar concesiones de agua superficial.       
 
       .row(titulo="Decreto 1791 de 1996")      
         .col-12
@@ -293,7 +293,7 @@
     AcordionA(data-aos="fade").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Agroquímicos Ia/Ib según la OMS")      
         .col-12
-          p la OMS clasifica los plaguicidas por orden de peligrosidad, tomando como referencia la dosis letal (DL) promedio oral o cutánea. Una medición llamada LD50 (siglas en inglés) se calcula midiendo el número de miligramos de componente activo por kilogramo del peso del cuerpo, necesario para matar el 50% de un muestreo de animales - con frecuencia ratas. Cada plaguicida es luego clasificado en cuatro categorías (WHO, 2009): la, extremadamente peligroso y Ib, altamente peligroso (Ministerio de Ambiente, 2020).
+          p La OMS clasifica los plaguicidas por orden de peligrosidad, tomando como referencia la dosis letal (DL) promedio oral o cutánea. Una medición llamada LD50 (siglas en inglés) se calcula midiendo el número de miligramos de componente activo por kilogramo del peso del cuerpo, necesario para matar el 50% de un muestreo de animales - con frecuencia ratas. Cada plaguicida es luego clasificado en cuatro categorías (WHO, 2009): la, extremadamente peligroso y Ib, altamente peligroso (Ministerio de Ambiente, 2020).
 
       .row(titulo="Ley 960 de 2005")      
         .col-12

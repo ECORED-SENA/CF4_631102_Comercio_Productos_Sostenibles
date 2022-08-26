@@ -14,7 +14,7 @@
       .col-lg-8(data-aos="fade")
         p El concepto de sostenibilidad viene anexo a diferentes épocas, pero también ramas de operatividad como la economía, el ambiente y la sociedad. En ese sentido, el reto de la sostenibilidad está aunado a la actividad antropogénica sistémica en pro de reducir el cambio climático, la escasez de recursos naturales desde una mirada global y desde el desarrollo sostenible tal como se menciona en el objetivo de desarrollo sostenible 11, que busca que las ciudades puedan lograr ser más inclusivas, seguras, resilientes y sostenibles.
 
-        pLa sostenibilidad resulta de entender la manera en que el medio ambiente opera de manera sistémica e interconectada. En ese sentido, se entiende como sostenibilidad la gestión de recursos que permite satisfacer las necesidades actuales sin poner en peligro las generaciones futuras, todo esto en un marco de desarrollo local desde una mirada ecológica, económica y social.
+        p La sostenibilidad resulta de entender la manera en que el medio ambiente opera de manera sistémica e interconectada. En ese sentido, se entiende como sostenibilidad la gestión de recursos que permite satisfacer las necesidades actuales sin poner en peligro las generaciones futuras, todo esto en un marco de desarrollo local desde una mirada ecológica, económica y social.
 
         p Por tal razón, es menester entender que el concepto de sostenibilidad se debe anexar a los ambientes sociales, urbanos, productivos y económicos que resultan de las capacidades locales y del equilibrio entre la población humana y los sistemas ambientales y de producción.
 
@@ -28,7 +28,7 @@
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade")
         p Con esto, también se pretende que los organismos vivos no solamente seres humanos, sino animales, tengan garantías de vida y desarrollo. En lo que tiene que ver con el desarrollo, las sociedades modernas avanzan hacia la sostenibilidad cuando pueden convivir con diferentes culturas y estas alcanzan el desarrollo humano en tanto tienen recursos, educación y salud, lo que lleva a que la sostenibilidad se dé en un marco de igualdad social.
 
-        p.mb-0 Además, la sostenibilidad debe ser la meta de toda organización económica, porque esto garantiza una producción sostenible y la preservación, ya que los costes ambientales se reducen y contribuyen a la reducción de los gases efecto invernadero, ayudando a combatir el cambio climático y con esto, el calentamiento global
+        p.mb-0 Además, la sostenibilidad debe ser la meta de toda organización económica, porque esto garantiza una producción sostenible y la preservación, ya que los costes ambientales se reducen y contribuyen a la reducción de los gases efecto invernadero, ayudando a combatir el cambio climático y con esto, el calentamiento global.
       .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t2/t2_02.svg", alt="alt")
@@ -82,7 +82,7 @@
           figure
             img(src="@/assets/curso/temas/t2/t2_08.svg", alt="alt").img190.m-auto
         .crd.bg--yellow.brad_bottom.px-2.py-3
-          h5.text-center.mb-0 Emisiones<br>de CO2
+          h5.text-center.mb-0 Emisiones<br>de CO#[sub 2]
 
       .container
         .crd.bg--paleYellow.brad_top

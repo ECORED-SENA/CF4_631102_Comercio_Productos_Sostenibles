@@ -369,7 +369,7 @@
 
       .row(titulo="Agotamiento de los recursos naturales")      
         .col-lg-9.mb-4.mb-md-0
-          p La población humana continúa creciendo de forma exponencial, lo que hace que ya no haya recursos naturales suficientes para satisfacer la demanda y las necesidad es de todos. Los recursos naturales terminarán por agotarse, esto es inevitable si a medida que la población aumenta se continúan destruyendo los recursos no renovables como combustibles fósiles, minerales, metales, gases naturales. También se están sobreexplotando los recursos naturales renovables como energía solar, eólica, agua, flora y fauna. Esto genera graves problemas de seguridad alimentaria en el mundo y los suelos fértiles disminuyen cada vez más a causa de la contaminación y la erosión.
+          p La población humana continúa creciendo de forma exponencial, lo que hace que ya no haya recursos naturales suficientes para satisfacer la demanda y las necesidades de todos. Los recursos naturales terminarán por agotarse, esto es inevitable si a medida que la población aumenta se continúan destruyendo los recursos no renovables como combustibles fósiles, minerales, metales, gases naturales. También se están sobreexplotando los recursos naturales renovables como energía solar, eólica, agua, flora y fauna. Esto genera graves problemas de seguridad alimentaria en el mundo y los suelos fértiles disminuyen cada vez más a causa de la contaminación y la erosión.
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/t1/t1_36.png', alt='')
@@ -519,12 +519,12 @@
                 .crd.crd--purple.hg-100
                   figure.mb-3
                     img(src="@/assets/curso/temas/t1/t1_48.svg", alt="alt").img75.m-auto
-                  p.mb-0 #[strong Energía:] área de bosque necesaria para absorber las emisiones de CO2, derivadas de la quema de combustibles fósiles.
+                  p.mb-0 #[strong Energía:] área de bosque necesaria para absorber las emisiones de CO#[sub 2], derivadas de la quema de combustibles fósiles.
 
       .py-4.py-md-5(titulo="Huella de carbono" :icono="require('@/assets/curso/temas/t1/t1_50.svg')")        
             
-        p La huella de carbono (CO2) o HC, realiza la contabilidad de las emisiones de carbono emitidas por gases de efecto invernadero producto de la acción humana, la deforestación, la utilización de combustibles fósiles, la producción animal, entre otras. 
-        p.mb-5 Las fuentes de emisión de CO2 están divididas entre emisiones directas o indirectas y estas últimas tienen además otra clasificación:
+        p La huella de carbono (CO#[sub 2]) o HC, realiza la contabilidad de las emisiones de carbono emitidas por gases de efecto invernadero producto de la acción humana, la deforestación, la utilización de combustibles fósiles, la producción animal, entre otras. 
+        p.mb-5 Las fuentes de emisión de CO#[sub 2] están divididas entre emisiones directas o indirectas y estas últimas tienen además otra clasificación:
 
         .row.justify-content-center
           .col-lg-10
@@ -562,7 +562,7 @@
                   tr
                     td.p-4 Se refiere al volumen de agua necesario para cultivar y proporcionar los bienes y servicios que se producen y consumen dentro de ese país
 
-                    td.p-4 Es el resultante del consumo de bienes importados, es el agua que se utiliza para la producció0n de bienes en el país exportador.
+                    td.p-4 Es el resultante del consumo de bienes importados, es el agua que se utiliza para la producción de bienes en el país exportador.
 
     .crd.bg--paleYellow(data-aos="zoom-in").mb-5
       .row.align-items-center
@@ -576,7 +576,7 @@
         figure
           img(src="@/assets/curso/temas/t1/t1_53.svg", alt="alt")
       .col-lg-7(data-aos="fade")
-        p En cuanto a la huella de carbono, esta se utiliza para evaluar el impacto de la actividad antropogénica en el medio ambiente. La HC considera los 6 GEI identificados en el Protocolo de Kioto: dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF6). La HC se mide en toneladas equivalentes de dióxido de carbono (tCO2e), a fin de poder expresar las emisiones de los distintos gases de efecto invernadero en una unidad común. La medida (CO2e) se calcula multiplicando las emisiones de cada uno de los 6 GEI por su respectivo potencial de calentamiento global (PCG) al cabo de 100 años (p. 25).
+        p En cuanto a la huella de carbono, esta se utiliza para evaluar el impacto de la actividad antropogénica en el medio ambiente. La HC considera los 6 GEI identificados en el Protocolo de Kioto: dióxido de carbono (CO#[sub 2]), metano (CH#[sub 4]), óxido nitroso (N#[sub 2]O), hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF#[sub 6]). La HC se mide en toneladas equivalentes de dióxido de carbono (tCO#[sub 2]e), a fin de poder expresar las emisiones de los distintos gases de efecto invernadero en una unidad común. La medida (CO#[sub 2]e) se calcula multiplicando las emisiones de cada uno de los 6 GEI por su respectivo potencial de calentamiento global (PCG) al cabo de 100 años (p. 25).
         p.mb-0 Por tal razón, es necesario que las organizaciones y países industrializados midan su huella de carbono, primero identificando las fuentes de emisión para la toma de decisiones frente a la producción y cómo se puede revertir la emisión directa o indirecta. 
 
     p(data-aos="fade") Finalmente, #[strong la huella hídrica] tiene en cuenta para su cálculo el agua utilizada de los ríos, lagos y acuíferos (aguas superficiales y subterráneas) para la agricultura, la industria y el uso doméstico, así como el agua de lluvia utilizada para los cultivos. (Schneider y Samaniego, 2009).  Además, según información del Fondo Mundial para la Naturaleza - WWF por sus siglas en inglés, se contempla también el consumo doméstico y la importancia del agua virtual del país. (WWF, 2008, citado por Schneider y Samaniego, 2009).     

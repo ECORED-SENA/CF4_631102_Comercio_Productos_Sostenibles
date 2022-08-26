@@ -96,7 +96,7 @@
         h4 Introducción o desarrollo
         p Inicia con la llegada del producto al mercado, antes de que se pruebe una necesidad, caracterizándose por un crecimiento lento, en donde las ventas no son muy altas. 
 
-        p Presentar un nuevo producto al mercado conlleva incertidumbre y riesgo, pues la demanda debe ser establecida desde el inicio de la etapa.La duración de esta etapa depende del grado de complicación, novedad e innovación del producto, además del grado de satisfacción de las necesidades del comercio y el nivel de competitividad.
+        p Presentar un nuevo producto al mercado conlleva incertidumbre y riesgo, pues la demanda debe ser establecida desde el inicio de la etapa. La duración de esta etapa depende del grado de complicación, novedad e innovación del producto, además del grado de satisfacción de las necesidades del comercio y el nivel de competitividad.
 
         p Es importante tener en cuenta que para la creación de un nuevo producto se requiere:
 

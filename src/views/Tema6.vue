@@ -87,7 +87,7 @@
               img(src='@/assets/curso/temas/t6/t6_08.png', alt='')
           .col-12
             h4 De la cuna a la cuna (<em>Cradle to cradle</em>)
-            p La principal aportación, es la clasificación que realiza de los recursos presentes en la economía. A los recursos, como materias primas o productos manufacturados, los denomina nutrietites y los clasifica en dos tipos:
+            p La principal aportación, es la clasificación que realiza de los recursos presentes en la economía. A los recursos, como materias primas o productos manufacturados, los denomina #[em nutrietites] y los clasifica en dos tipos:
             p.mb-2 a. Recursos biológicos.
             p.mb-0 b. Recursos técnicos.
 

@@ -113,6 +113,38 @@ export default {
         numero: '5',
         titulo: 'Normatividad ambiental de productos y servicios',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Normativa para los recursos naturales',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Recursos genéticos y propiedad intelectual',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo: 'Permisos y licencias ambientales',
+            hash: 't_5_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.4',
+            titulo: 'Manejo de residuos.',
+            hash: 't_5_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.5',
+            titulo: 'Sustancias o materiales peligrosos.',
+            hash: 't_5_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
@@ -167,13 +199,12 @@ export default {
       tema: 'Impacto ambiental',
       referencia:
         'Garmendia, S., A., Crespo S., C., Garmendia, S., L., y Salvador, A., A. (2005). Evaluación de impacto ambiental (cap. 3). Pearson Educación.',
-      tipo: 'libro',
+      tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4384&pg=95&ed=',
     },
     {
       tema: 'Impacto ambiental',
-      referencia:
-        'BSG Institute. (2020). Tipos de impacto ambiental. [Video]. YouTube. ',
+      referencia: 'BSG Institute. (2020). Tipos de impacto ambiental.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sNdxt3-Ipgc',
     },
@@ -200,8 +231,7 @@ export default {
     },
     {
       tema: 'Regla de las 3R (Reciclar, Reutilizar, Reducir)',
-      referencia:
-        'Acciona. (2020). ¿En qué consiste la economía circular? Origen, definición, explicación y ejemplos.',
+      referencia: 'Acciona. (2020). ¿En qué consiste la economía circular?',
       tipo: 'Video',
       link: 'https://youtu.be/wc_65-yf6zU',
     },

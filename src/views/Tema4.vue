@@ -81,9 +81,9 @@
     .crd.cstm_h3.mb-4(data-aos="fade")
       h3 Reducir
 
-    p(data-aos="fade") Hace referencia a la minimización de residuos, la disminución, la simplificación, hasta la eliminación de materiales productos bienes o servicios es la reducción de manera óptima para una empresa industria o un hogar.
+    p(data-aos="fade") Hace referencia a la minimización de residuos, la disminución, la simplificación, hasta la eliminación de materiales, productos, bienes o servicios es la reducción de manera óptima para una empresa industria o un hogar.
 
-    p(data-aos="fade").mb-5 Existen innumerables acciones que se pueden tomar a la hora de reducir productos materias primas y basuras, para grandes industrias o ayudar a la huella de carbono desde el hogar, para una empresa o grandes industrias es recomendable hacer uso de tecnologías o recursos que minimicen, disminuyan o simplifiquen la creación de productos la distribución la organización de cualquier ítem relacionado con el ciclo de vida dentro de su empresa.
+    p(data-aos="fade").mb-5 Existen innumerables acciones que se pueden tomar a la hora de reducir productos, materias primas y basuras, para grandes industrias o ayudar a la huella de carbono desde el hogar, para una empresa o grandes industrias es recomendable hacer uso de tecnologías o recursos que minimicen, disminuyan o simplifiquen la creación de productos la distribución la organización de cualquier ítem relacionado con el ciclo de vida dentro de su empresa.
 
     .crd.bg--paleYellow.mb-5(data-aos="zoom-in")
       .row.align-items-center
