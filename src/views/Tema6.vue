@@ -63,7 +63,7 @@
             h4 Ecología industrial
             p La teoría propone imitar los ciclos propios de la naturaleza y sienta las bases de la concepción de una economía circular. Para lograr que los sistemas productivos funcionen de manera cíclica, destaca dos ejes de acción:
             p.strong.mb-2 a. Reducción drástica del consumo, denominada desmaterialización.
-            p.strong.mb-0 b. Simbiosis industrial      
+            p.strong.mb-0 b. Simbiosis industrial.     
 
         .row
           .col-12.mb-4

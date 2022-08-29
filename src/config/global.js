@@ -135,13 +135,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.4',
-            titulo: 'Manejo de residuos.',
+            titulo: 'Manejo de residuos',
             hash: 't_5_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.5',
-            titulo: 'Sustancias o materiales peligrosos.',
+            titulo: 'Sustancias o materiales peligrosos',
             hash: 't_5_5',
           },
         ],
